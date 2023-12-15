@@ -13,6 +13,7 @@
 • <a href="https://github.com/pac3010/AI-Portfolio/blob/main/Introduction_to_YOLOv5_Vehicle_Detection(Video).ipynb">Introduction to YOLO (YOLOv5) - Video-based using custom dataset</a><br>
 • <a href="https://github.com/pac3010/AI-Portfolio/blob/main/Prediksi_gambar_bunga_daisy_dan_bunga_matahari.ipynb">Klasifikasi citra menggunakan CNN (Prediksi 2 jenis bunga: Daisy dan Matahari)</a><br>
 • <a href="https://github.com/pac3010/AI-Portfolio/blob/main/Putri_Anggia_Cahyani_submission_Rock_Paper_Scissors.ipynb">Klasifikasi citra menggunakan CNN (Prediksi 3 jenis: Batu, gunting, kertas)</a><br>
+• <a href="https://github.com/pac3010/project-akhir-orbit-co-vision">FINAL PROJECT: Vehicle counting system using YOLOv5 and DeepSORT ALgorithm</a><br>
 
 ### 3. NLP (Natural Language Processing):
 • <a href="https://github.com/pac3010/AI-Portfolio/blob/main/NLP_Assignment_Regular_Expression(ReGex).ipynb">ReGex (Regular Expression)</a><br>
